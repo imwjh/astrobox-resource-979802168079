@@ -1,0 +1,46 @@
+{
+  "item": {
+    "id": "979802168079",
+    "restype": "watchface",
+    "name": "一大一小",
+    "description": "看表的时间大多不超过两秒。这两秒里，眼睛其实只做一件事：先找到最大的那个数字。这个表盘的名字就是从这儿来的——既然只看一眼，那就把这一眼要看的做大，把其余的做小。\n\n分钟是正文。右下角，衬线字体，字号几乎占了屏幕的一半。粗细对比拉得很开，墨色重的竖笔和发丝一样细的横线在同一个字里共存，黑底上像铅字印出来的。它不需要装饰，字本身就够好看。\n\n小时是跋文。左上角，同样的字体换成斜体，字号只有分钟的三分之一不到，颜色调到半透明。它像书页页脚的一行小字：你需要它，但不该被它打扰。两个数字一个右下、一个左上，中间隔着整块屏幕的空。\n\n那片空不是没排满。两个数字各贴一个角，留出来的部分恰好让每个字都站得稳。屏幕是黑的，元素离边缘越近越显得挤，所以宁可空着。留白是设计让出来的，不是剩下的。\n\n息屏时，两个数字换成描边空心，位置和字体一动不动。原因很实在：那块屏要亮一整晚，实心改描边，亮着的像素少了一大半，续航就长一截。描边在低亮度下依然清楚，这是省电和能看之间找到的平衡点。夜里看到的和白天看到的是同一个布局——一块表盘最基本的诚实。\n\n这个表盘没有第三样东西。没有日期，没有电量，没有动效，因为两秒钟里真的用不到。一大一小：一个是正文，一个是注脚，剩下的全部交给黑。",
+    "preview": [
+      "media/poster-1-2000x3000.png",
+      "media/poster-2-2000x3000.png",
+      "media/poster-3-2000x3000.png"
+    ],
+    "icon": "media/图标.png",
+    "cover": "media/cover-type-3000x2000.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "AirplaneTilt"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0",
+      "file_name": "downloads/YiDaYiXiao_979802168079.bin",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0",
+      "file_name": "downloads/YiDaYiXiao_979802168079.bin",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0",
+      "file_name": "downloads/YiDaYiXiao_979802168079.bin",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
